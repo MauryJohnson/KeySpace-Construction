@@ -1,0 +1,56 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text ="a">
+		<file name = "abcde">2</file>
+		<file name = "f">2</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="aa">
+		<file name = "abcde">2</file>
+	</word>
+	<word text ="adsf">
+		<file name = "abcde">2</file>
+	</word>
+	<word text ="asd">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="asdf">
+		<file name = "abcde">11</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="asgha">
+		<file name = "fot2.txt">1</file>
+	</word>
+	<word text ="b">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="ba">
+		<file name = "f">1</file>
+	</word>
+	<word text ="c">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="d">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="e">
+		<file name = "abcde">1</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="f">
+		<file name = "fie">2</file>
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="fasdf">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="ffff">
+		<file name = "f">1</file>
+	</word>
+	<word text ="fffff">
+		<file name = "f">1</file>
+	</word>
+	<word text ="fffoe">
+		<file name = "fff">1</file>
+	</word>
+</fileIndex>

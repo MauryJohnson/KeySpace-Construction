@@ -1,0 +1,375 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text ="a">
+		<file name = "read.txt">6</file>
+	</word>
+	<word text ="after">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="all">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="alphabetical">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="also">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="amount">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="an">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="and">
+		<file name = "read.txt">12</file>
+	</word>
+	<word text ="another">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="are">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="argument">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="argument1">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="argv">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="become">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="boolean">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="by">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="c">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="called">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="capital">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="character">
+		<file name = "read.txt">6</file>
+	</word>
+	<word text ="characters">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="compared">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="completed">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="contains">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="created">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="data">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="each">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="eights">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="entries">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="entry">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="entrysize">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="false">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="final">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="finally">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="first">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="for">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="fours">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="free">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="freelist">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="from">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="function">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="group">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="groups">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="i">
+		<file name = "read.txt">8</file>
+	</word>
+	<word text ="if">
+		<file name = "read.txt">5</file>
+	</word>
+	<word text ="implement">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="implemented">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="in">
+		<file name = "read.txt">5</file>
+	</word>
+	<word text ="into">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="is">
+		<file name = "read.txt">12</file>
+	</word>
+	<word text ="iscap">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="isletter">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="it">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="iterate">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="length">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="letter">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="linked">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="list">
+		<file name = "read.txt">12</file>
+	</word>
+	<word text ="loop">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="m">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="main">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="mlogn">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="msort">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="my">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="n">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="next">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="node">
+		<file name = "read.txt">8</file>
+	</word>
+	<word text ="nodes">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="not">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="null">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="o">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="odd">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="of">
+		<file name = "read.txt">13</file>
+	</word>
+	<word text ="on">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="once">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="or">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="original">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="out">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="parameters">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="placed">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="points">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="previous">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="print">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="printlist">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="prints">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="program">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="r">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="readdatas">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="reads">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="return">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="returns">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="root">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="s">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="size">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="so">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="sorted">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="stores">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="storing">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="stringsorter">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="struct">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="takes">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="that">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="the">
+		<file name = "read.txt">30</file>
+	</word>
+	<word text ="then">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="there">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="they">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="this">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="through">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="time">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="to">
+		<file name = "read.txt">4</file>
+	</word>
+	<word text ="true">
+		<file name = "read.txt">2</file>
+	</word>
+	<word text ="two">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="twos">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="ultil">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="up">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="used">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="using">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="valid">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="was">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="which">
+		<file name = "read.txt">12</file>
+	</word>
+	<word text ="while">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="within">
+		<file name = "read.txt">1</file>
+	</word>
+	<word text ="word">
+		<file name = "read.txt">3</file>
+	</word>
+	<word text ="words">
+		<file name = "read.txt">1</file>
+	</word>
+</fileIndex>

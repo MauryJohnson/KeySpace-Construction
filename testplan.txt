@@ -1,0 +1,238 @@
+For my first test case, I inputted:
+./invertedIndex "BZZZ" "DD"
+
+Directory DD contained: 
+F6.txt(file){"deffinitely"} 
+file0.txt(file){"deffinitely deffinitely01 deffinitely10"} 
+file2.txt(file){"FIE FOR FUM deffinitely"} 
+file3.txt(file){"YES"} 
+file4.txt(file){"DEFFINITELY"} 
+gg(directory)->{}
+
+Output In File BZZZ: 
+
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text ="deffinitely">
+		<file name = "file0.txt">1</file>
+		<file name = "file2.txt">1</file>
+		<file name = "file4.txt">1</file>
+		<file name = "f6">1</file>
+	</word>
+	<word text ="deffinitely01">
+		<file name = "file0.txt">1</file>
+	</word>
+	<word text ="deffinitely10">
+		<file name = "file0.txt">1</file>
+	</word>
+	<word text ="fie">
+		<file name = "file2.txt">1</file>
+	</word>
+	<word text ="for">
+		<file name = "file2.txt">1</file>
+	</word>
+	<word text ="fum">
+		<file name = "file2.txt">1</file>
+	</word>
+	<word text ="yes">
+		<file name = "file3.txt">1</file>
+	</word>
+</fileIndex>
+
+
+For my second test case, I inputted:
+
+./invertedIndex "B2" "ZZ"
+
+Directory DD contained:
+ABCDE(file){"asdf asdf asdf asdf a b c d e f"}
+FFF(file){"FFFOE"}
+FIE(file){"F
+E           A   F  asdf"}
+HH(file){" "}
+TT(directory)->{
+F(file){"FFFFF  A FFFF A BA"}
+T2(directory)->{
+FOT2.txt(file){"aSGHA"}
+}
+}
+
+Output In File B2:
+
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text ="a">
+		<file name = "abcde">2</file>
+		<file name = "f">2</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="aa">
+		<file name = "abcde">2</file>
+	</word>
+	<word text ="adsf">
+		<file name = "abcde">2</file>
+	</word>
+	<word text ="asd">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="asdf">
+		<file name = "abcde">11</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="asgha">
+		<file name = "fot2.txt">1</file>
+	</word>
+	<word text ="b">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="ba">
+		<file name = "f">1</file>
+	</word>
+	<word text ="c">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="d">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="e">
+		<file name = "abcde">1</file>
+		<file name = "fie">1</file>
+	</word>
+	<word text ="f">
+		<file name = "fie">2</file>
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="fasdf">
+		<file name = "abcde">1</file>
+	</word>
+	<word text ="ffff">
+		<file name = "f">1</file>
+	</word>
+	<word text ="fffff">
+		<file name = "f">1</file>
+	</word>
+	<word text ="fffoe">
+		<file name = "fff">1</file>
+	</word>
+</fileIndex>
+
+
+For my third test case, I inputted:
+
+./invertedIndex "B3" "GG"
+
+Directory GG contained:
+00(file){"once
+one"}
+01(file){"once"}
+1(file){"ONCE ONCE"}
+11(file){"once
+twenty one"}
+12(file){"12"}
+2(file){"once once"}
+21(file){"twenty one
+once"}
+G2(directory){
+HEH2(file){"322
+HAH:
+"}
+HEH2.c(file){"AH
+HA
+AHAHA
+"}
+}
+HEH.txt(file){"HAH:"}
+
+Output in File B3:
+
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text ="ah">
+		<file name = "heh2.c">1</file>
+	</word>
+	<word text ="ahaha">
+		<file name = "heh2.c">1</file>
+	</word>
+	<word text ="ha">
+		<file name = "heh2.c">1</file>
+	</word>
+	<word text ="hah">
+		<file name = "heh2">1</file>
+		<file name = "heh.txt">1</file>
+	</word>
+	<word text ="once">
+		<file name = "1">2</file>
+		<file name = "2">2</file>
+		<file name = "00">1</file>
+		<file name = "01">1</file>
+		<file name = "11">1</file>
+		<file name = "21">1</file>
+		<file name = ".00">1</file>
+		<file name = ".11">1</file>
+	</word>
+	<word text ="oncee">
+		<file name = ".1">1</file>
+	</word>
+	<word text ="one">
+		<file name = "00">1</file>
+		<file name = "11">1</file>
+		<file name = "21">1</file>
+	</word>
+	<word text ="twenty">
+		<file name = "11">1</file>
+		<file name = "21">1</file>
+	</word>
+	<word text ="12">
+		<file name = "12">1</file>
+	</word>
+	<word text ="322">
+		<file name = "heh2">1</file>
+	</word>
+</fileIndex>
+
+
+For my fourth test case, I inputted:
+
+./invertedIndex "RAND" "random.txt"
+
+Current Directory: random.txt(file){LONG FILE}
+
+The output for file RAND was all of the words within the file random in lexicographical order. This was the longest test case, and it took a few minutes to complete, due to the amount of words that the program had to scan. 
+
+
+For my fifth test case, I inputted:
+
+./invertedIndex "AAA" "_"
+
+Current Directory: "_"(file){"__ OP"}
+
+Output in File AAA:
+
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+        <word text ="op">
+                <file name = "_">1</file>
+        </word>
+</fileIndex>
+
+
+For my sixth test case, I inputted:
+
+./invertedIndex "BBB" " "
+
+Current Directory: " "(file){"okay? weirdo"}
+
+Output in File BBB:
+
+<?xml version= "1.0" encoding="UTF-8"?>
+<fileIndex>
+        <word text ="okay">
+                <file name = " ">1</file>
+        </word>
+        <word text ="weirdo">
+                <file name = " ">1</file>
+        </word>
+</fileIndex>
+
+
+The most difficult part of this assignment was making sure the sorted order of the names and then the file names were correct.
